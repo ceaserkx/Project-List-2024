@@ -1,7 +1,7 @@
-# ProjectList
+# Project List 2024
 A comprehensive list of cybersecurity and networking projects, self-initiated, self-managed for 2024. 
 
-This is a general list of projects I have worked on and completed in the cybersecurity realm, with completion status, a brief description, and main skills learned/learning. You may notice I try to complete at least one project in a month.
+This is a general list of projects I have worked on and completed in the cybersecurity realm in my own personal time, with completion status, a brief description, and main skills learned/learning. You may notice I try to complete at least one project per month.
 
 | Project Title                                    | Status           | Main Skills Learned |
 | -------------------------------------------------| -----------------| ------------------- |
