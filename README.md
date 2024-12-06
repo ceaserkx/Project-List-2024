@@ -9,7 +9,7 @@ This is a general list of projects I have worked on and completed in the cyberse
 | -------------------------------------------------| -----------------| ------------------- |
 | [SCOUT 42](https://github.com/ceaserkx/scout42)  | In-Progress      | **Network Architecture and Security** ~ **Python and PowerShell Automation** ~ **Penetration Testing** |
 | [*SOC Configuration in AWS](fill)                 | Complete         | **SOC Concepts** ~ **AWS EC2 Deployment and Configuration** ~ **Threat Intelligence**                  |
-| [*Threat Intelligence Analysis with Wazuh](fill)  | Complete         | **SIEM Configuration** ~ **Cloud Configuration** ~ **MITRE ATT&CK**                                    |
+| [Threat Intelligence Analysis with Wazuh](https://github.com/ceaserkx/Configuring-Wazuh-for-Threat-Intelligence)  | Complete         | **SIEM Configuration** ~ **Cloud Configuration** ~ **MITRE ATT&CK**                                    |
 | [*SIEM Configuration with Azure Sentinel](fill)   | Complete         | **Azure Sentinel Playbooks** ~ **Powershell scripting** ~ **Detection Tuning**                         |
 | [*SOC Analyst Training with LimaCharlie](fill)    | Complete         | **SOC Concepts** ~ **EDR Configuration** ~ **Detection Tuning**                                        |
 | [*Honeypot Configuration with T-POT](fill)        | Complete         | **Cloud Configuration** ~ **Threat Hunting** ~ **Suricata Integration**                                |
