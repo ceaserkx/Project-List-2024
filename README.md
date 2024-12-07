@@ -3,7 +3,7 @@ A comprehensive list of cybersecurity and networking projects, self-initiated, s
 
 ❗**Note: Page being built out, some links may not work yet (marked: *). I wanted to go ahead and get this page up! Alternative reference for projects can be found on my [LinkedIn](https://www.linkedin.com/in/kareem--ceaser/details/projects)❗ 
 
-This is a general list of projects I have worked on and completed in the cybersecurity realm in my own personal time, with a brief description, completion status, and main skills learned/learning. You may notice I try to complete at least one project per month.
+This is a general list of projects I have worked on and completed in the cybersecurity realm in my own personal time, with a brief description, completion status, and main skills learned/learning.
 
 | Project Title                                    | Status           | Main Skills Learned |
 | -------------------------------------------------| -----------------| ------------------- |
